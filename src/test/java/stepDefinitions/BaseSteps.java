@@ -7,5 +7,4 @@ import static org.hamcrest.Matchers.lessThan;
 
 public class BaseSteps {
     public static ValidatableResponse response;
-
 }
